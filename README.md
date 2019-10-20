@@ -1,3 +1,4 @@
+beginning
 # ns-process
 
 Code to accompany the "Namespaces in Go" series of articles.
@@ -38,4 +39,3 @@ tenth line
 12th
 14th
 checkout
-
