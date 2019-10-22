@@ -18,7 +18,7 @@ checked out from this repo. The code is buildable and runnable at each tag, but
 note that it will only run successfully on Linux machines.
 
 ## Testing
-
+middle
 The test suite isn't explicitly mentioned in the articles, but if you'd like to
 run the tests you'll need to install [ginkgo](https://github.com/onsi/ginkgo)
 and [gomega](https://github.com/onsi/gomega).  Note that some of the tests may
